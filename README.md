@@ -7,9 +7,8 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- 
 
-- 
+- ![Alt text](<website portfolio screenshot.png>)
 
 
 

@@ -1,5 +1,6 @@
+
 alert('What is the time?');
-const sr =ScrollReveal({
+let sr = scrollreveal({
     distance: '35px',
     duration: 2500,
     reset: true
